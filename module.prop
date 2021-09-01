@@ -1,0 +1,6 @@
+id=miui-replace-annoying-sounds
+name=MIUI replace annoying sounds
+version=v1.1
+versionCode=1.1
+author=Lupo Ch
+description=Replace the annoying MIUI sounds: charging.ogg disconnect.ogg with silence.ogg
